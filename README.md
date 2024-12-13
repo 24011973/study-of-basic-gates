@@ -49,13 +49,13 @@ developed name:ethicvaran s
 Register Number:24011973
  
 **Logic symbol & Truthtable**
-![WhatsApp Image 2024-12-12 at 21 59 52_ff2c35b5](https://github.com/user-attachments/assets/72a75e03-e45e-46a0-9b0f-d87072d83dfb)
+![WhatsApp Image 2024-12-12 at 21 59 54_469b6f3c](https://github.com/user-attachments/assets/69e2b30e-7cff-45e0-b44a-e2538e6e885a)
 
 **RTL realization Output:** 
 ![WhatsApp Image 2024-12-12 at 21 59 53_1db7444a](https://github.com/user-attachments/assets/c09298ae-5839-4c9f-8cd0-7ff8e952750a)
 
-**RTL**
-![WhatsApp Image 2024-12-12 at 21 59 54_469b6f3c](https://github.com/user-attachments/assets/69e2b30e-7cff-45e0-b44a-e2538e6e885a)
+**RTL**)
+![WhatsApp Image 2024-12-13 at 23 13 01_ba592e49](https://github.com/user-attachments/assets/0d59ff48-e838-4120-9fe1-77a58dcdc0a4)
 
 
 **Result:**
